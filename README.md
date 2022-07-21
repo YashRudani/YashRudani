@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YashRudani
 - 👀 I’m interested in Data Science,Business Analytics.
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Open Source Projects regarding Data Science Dom
+- 💞️ I’m looking to collaborate on Open Source Projects regarding Data Science Domain
 - 📫 How to reach me yashrudani.it@gmail.com
 
 <!---
